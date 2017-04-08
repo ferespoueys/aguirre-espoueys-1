@@ -128,23 +128,23 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(255,179,128,1);}
-	to {background-color:rgba(255,255,153,1);}
+	from {background-color:rgba(255,255,230,1);}
+	to {background-color:rgba(255,230,204,1);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgba(255,179,128,1);}
-	to {background-color:rgba(255,255,153,1);}
+	from {background-color:rgba(255,255,230,1);}
+	to {background-color:rgba(255,230,204,1);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgba(255,179,128,1);}
-	to {background-color:rgba(255,255,153,1);}
+	from {background-color:rgba(255,255,230,1);}
+	to {background-color:rgba(255,230,204,1);}
 }
 
 @keyframes fondo {
-	from {background-color:rgba(255,179,128,1);}
-	to {background-color:rgba(255,255,153,1);}
+	from {background-color:rgba(255,255,230,1);}
+	to {background-color:rgba(255,230,204,1);}
 }
 
 .item {
